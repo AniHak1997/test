@@ -18,7 +18,7 @@
 <body>
 
 <a href="/logout" style="float: right">Logout</a>
-<h1 style="background: cornflowerblue">This is home page</h1>
+<h1 style="background: #ed64df">This is home page</h1>
 
 
 <%
