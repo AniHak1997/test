@@ -19,7 +19,7 @@ import static am.basic.jdbcStart.util.constants.ParameterKeys.*;
 
 public class LoginServlet extends HttpServlet {
 
-
+//log
     private UserService userService = new UserService();
 
 
